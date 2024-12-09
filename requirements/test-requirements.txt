@@ -10,7 +10,7 @@ click==8.1.7
     # via
     #   -c requirements.txt
     #   black
-coverage==7.6.8
+coverage==7.6.9
     # via -r test-requirements.in
 exceptiongroup==1.2.1
     # via pytest
