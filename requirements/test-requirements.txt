@@ -14,7 +14,7 @@ coverage==7.6.11
     # via -r test-requirements.in
 exceptiongroup==1.2.1
     # via pytest
-flake8==7.1.1
+flake8==7.1.2
     # via -r test-requirements.in
 iniconfig==2.0.0
     # via pytest
