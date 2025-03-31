@@ -16,7 +16,7 @@ idna==3.7
     # via requests
 numpy==2.2.4
     # via -r requirements.in
-pytz==2025.1
+pytz==2025.2
     # via -r requirements.in
 requests==2.32.3
     # via -r requirements.in
