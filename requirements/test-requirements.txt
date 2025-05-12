@@ -6,7 +6,7 @@
 #
 black==25.1.0
     # via -r test-requirements.in
-click==8.1.8
+click==8.2.0
     # via
     #   -c requirements.txt
     #   black
