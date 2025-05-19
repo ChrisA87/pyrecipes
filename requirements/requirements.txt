@@ -14,7 +14,7 @@ colorama==0.4.6
     # via -r requirements.in
 idna==3.7
     # via requests
-numpy==2.2.5
+numpy==2.2.6
     # via -r requirements.in
 pytz==2025.2
     # via -r requirements.in
