@@ -8,7 +8,7 @@ certifi==2024.7.4
     # via requests
 charset-normalizer==3.3.2
     # via requests
-click==8.1.8
+click==8.2.1
     # via -r requirements.in
 colorama==0.4.6
     # via -r requirements.in
